@@ -4,7 +4,10 @@ Now that you are all set up, it's time to learn a little more about the tools of
 
 1. What is Git?
 Git is a version control system.
+
 2. What is the difference between Git and GitHub?
+Git is a library for BASH and GitHub is a web platform for hosting Git projects.
+
 3. Why do we create a branch?
 4. What is the purpose of a Pull Request?
 5. What is the command you can use to switch between branches? For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main.
